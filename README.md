@@ -4,6 +4,11 @@
 
 Create cryptographically secure pseudo-random numbers, and manage big integers
 
+## Version
+
+- [x] V1.x support all PHP version `>=5.6`
+- [x] V2.x support all PHP version `>=7.0`
+
 ## Contact & Support
 
 If any question & request, please contact following information

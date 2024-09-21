@@ -1,4 +1,9 @@
-[![Latest Stable Version](http://poser.pugx.org/nguyenanhung/math-helper/v)](https://packagist.org/packages/nguyenanhung/math-helper) [![Total Downloads](http://poser.pugx.org/nguyenanhung/math-helper/downloads)](https://packagist.org/packages/nguyenanhung/math-helper) [![Latest Unstable Version](http://poser.pugx.org/nguyenanhung/math-helper/v/unstable)](https://packagist.org/packages/nguyenanhung/math-helper) [![License](http://poser.pugx.org/nguyenanhung/math-helper/license)](https://packagist.org/packages/nguyenanhung/math-helper) [![PHP Version Require](http://poser.pugx.org/nguyenanhung/math-helper/require/php)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![Latest Stable Version](https://img.shields.io/packagist/v/nguyenanhung/math-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![Total Downloads](https://img.shields.io/packagist/dt/nguyenanhung/math-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![Daily Downloads](https://img.shields.io/packagist/dd/nguyenanhung/math-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![Monthly Downloads](https://img.shields.io/packagist/dm/nguyenanhung/math-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![License](https://img.shields.io/packagist/l/nguyenanhung/math-helper.svg?style=flat-square)](https://packagist.org/packages/nguyenanhung/math-helper)
+[![PHP Version Require](https://img.shields.io/packagist/dependency-v/nguyenanhung/math-helper/php)](https://packagist.org/packages/nguyenanhung/math-helper)
 
 # Math Helper
 
